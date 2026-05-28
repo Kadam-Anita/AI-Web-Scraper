@@ -21,5 +21,5 @@ This project is an AI-powered web scraper built using Python, Selenium, LangChai
 
 ```bash
 pip install -r requirements.txt
-python main.py
+streamlit run main.py 
 ```
