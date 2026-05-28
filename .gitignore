@@ -1,0 +1,7 @@
+Lib/
+Scripts/
+__pycache__/
+.env
+*.pyc
+chromedriver.exe
+Output/
